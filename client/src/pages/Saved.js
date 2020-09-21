@@ -16,7 +16,7 @@ class Saved extends Component {
     render() {
         return (
             <div className="container">
-                <h3>Library</h3>
+                <h2>Library</h2>
                 <Results books={this.state.savedBooks} />
             </div>
         )

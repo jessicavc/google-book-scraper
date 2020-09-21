@@ -59,4 +59,5 @@
 * `*` (get) - Will load your single HTML page in `client/build/index.html`. Make sure you have this _after_ all other routes are defined.
 
 
+## The deployed version is currently not fully functional. I am unable to save and unsave selections to and from the library. I have been able to get it functioning locally so I've attached a videos folder with 2 videos to demonstrate functionality 
 
