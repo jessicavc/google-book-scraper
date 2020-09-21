@@ -61,6 +61,5 @@
 
 #### The deployed version is currently not fully functional. I am unable to save and unsave selections to and from the library. I have been able to get it functioning locally so I've attached a demo video
 
-![Demo Video]
-(https://youtu.be/YMbIKpBxD3k)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YMbIKpBxD3k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
