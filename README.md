@@ -1,17 +1,16 @@
-# Introduction
+## Introduction
+- this is a React-based Google Books Search app 
+- this app requires a minimum of 2 pages, including a Search page and a Saved page
 
-## this is a React-based Google Books Search app 
-## this app requires a minimum of 2 pages, including a Search page and a Saved page
-
-# How it works
+# Instructions
 - search the title and/or author(s) of the book you're interested in looking at
 - a list of results will populate in the results field
 - you can View the result to see whether or not it's what you're looking for
 - once you've found what you're looking for, you can Save that result
 - each saved item will populate on the Saved page for you to view at a later time
 
-# Instructions
 
+## How it works 
 1. Start by using the 07-Ins_Mern example as a base for your application.
 
 2. Add code to connect to a MongoDB database named `googlebooks` using the mongoose npm package.
@@ -59,3 +58,4 @@
 * `*` (get) - Will load your single HTML page in `client/build/index.html`. Make sure you have this _after_ all other routes are defined.
 
 
+## this app is deployed to Heroku https://google-book-scraper.herokuapp.com/
