@@ -1,8 +1,9 @@
-## Introduction
+# Introduction
 - this is a React-based Google Books Search app 
 - this app requires a minimum of 2 pages, including a Search page and a Saved page
+- this app is deployed to Heroku https://google-book-scraper.herokuapp.com/
 
-# Instructions
+## Instructions
 - search the title and/or author(s) of the book you're interested in looking at
 - a list of results will populate in the results field
 - you can View the result to see whether or not it's what you're looking for
@@ -58,4 +59,4 @@
 * `*` (get) - Will load your single HTML page in `client/build/index.html`. Make sure you have this _after_ all other routes are defined.
 
 
-## this app is deployed to Heroku https://google-book-scraper.herokuapp.com/
+
