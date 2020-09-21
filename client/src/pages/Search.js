@@ -52,6 +52,7 @@ class Search extends React.Component {
                     handleFormSubmit={this.handleFormSubmit}
                 />
                 <div className="container">
+                    <h3> Results </h3>
                     
                     <Results books={this.state.books} />
                 </div>

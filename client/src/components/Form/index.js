@@ -13,7 +13,7 @@ return (
         name="search"
         type="text"
         className="form-control"
-        placeholder=""
+        placeholder="..."
         id="search"
       />
       <button onClick={props.handleFormSubmit} className="btn btn-outline-success mt-3 mb-5">

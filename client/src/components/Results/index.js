@@ -30,7 +30,7 @@ class Results extends Component {
         return (
             <div>
                 {!this.props.books.length ? (
-                    <h1 className="text-center">No Results to Display</h1>
+                    <h3 className="text-center"> Your library is empty </h3>
                 ) : (
                         <div>
                             {this.props.books.map(result => (
