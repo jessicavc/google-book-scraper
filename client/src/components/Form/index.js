@@ -6,7 +6,7 @@ return (
   <div className="container">
   <form>
     <div className="form-group">
-      <label htmlFor="search"><h2>Search the world's most comprehensive index of books</h2></label>
+      <label htmlFor="search"><h4>Search the world's most comprehensive index of books</h4></label>
       <input
         onChange={props.handleInputChange}
         value={props.search}
